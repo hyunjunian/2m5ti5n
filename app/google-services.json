@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605589549255",
+    "firebase_url": "https://emotiontest-11dda.firebaseio.com",
+    "project_id": "emotiontest-11dda",
+    "storage_bucket": "emotiontest-11dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605589549255:android:7247234fe7b56280",
+        "android_client_info": {
+          "package_name": "kr.swaggers.www.emotiontest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605589549255-v4fd8kuihug69bj8oo224lnq56peq3ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.swaggers.www.emotiontest",
+            "certificate_hash": "F3DD88D8399403F1DA70CF1E04976A57D5D0E36D"
+          }
+        },
+        {
+          "client_id": "605589549255-g92qa8gli7jl2pvbm9aukploctnm1caf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Y_wrRUSxsHAFe3H3Kislh-D_TKcCx-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605589549255-g92qa8gli7jl2pvbm9aukploctnm1caf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
